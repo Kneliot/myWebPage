@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    margin-left: 300px;
+    padding: 0;
+    background-color: #464646;
+    color: #ccc9c9;
+}
+
+#hlavni-nadpis {
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+
+#podnadpis-stranky {
+    font-size: 2rem;
+}
+
+.github-container {
+    display: flex;
+    align-items: center;
+}
+
+.instagram-container {
+    display: flex;
+    align-items: center;
+}
+
+.discord-container {
+    display: flex;
+    align-items: center;
+}
+
+#github-username {
+    font-size: 1.4rem;
+    margin-left: 10px;
+}
+
+#instagram-username {
+    font-size: 1.4rem;
+    margin-left: 10px;
+}
+
+#discord-username {
+    font-size: 1.3rem;
+    margin-left: 10px;
+}
+
+
+p {
+    font-size: 1.5rem;
+}
+
