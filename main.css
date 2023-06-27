@@ -20,6 +20,11 @@ body {
     margin-bottom: 150px;
 }
 
+#main-header-ai {
+    font-size: 3rem;
+    margin-bottom: 150px;
+}
+
 #main-subheader {
     font-size: 2rem;
 }
@@ -103,6 +108,25 @@ body {
 
 .post-date {
     font-size: 1rem;
+}
+
+#img-1 {
+    width: 400px;
+    margin-right: 500px;
+    border-radius: 25%;
+}
+
+#img-2 {
+    width: 400px;
+    border-radius: 25%;
+}
+
+#img-row-1 {
+  margin-bottom: 50px;
+}
+
+#img-row-2 {
+  margin-bottom: 50px;
 }
 
 p {
