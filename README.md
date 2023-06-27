@@ -1,2 +1,2 @@
 # myWebPage
-my personal webpage
+Moje osobní webová stránka

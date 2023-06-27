@@ -34,6 +34,26 @@ body {
     align-items: center;
 }
 
+.nav-link {
+    text-decoration: none;
+    color:#7f7f7f;
+    font-size: 1.2rem;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+
+.nav-link:hover {
+    color:#ccc9c9;
+    text-decoration:underline;
+    text-decoration-thickness: 15% ;
+    text-underline-position: under;
+}
+
+.navbar {
+    display: flex;
+    justify-content: right;
+}
+
 #github-username {
     font-size: 1.4rem;
     margin-left: 10px;
