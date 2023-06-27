@@ -10,12 +10,17 @@ body {
     color: #ccc9c9;
 }
 
-#hlavni-nadpis {
+#main-header {
     font-size: 3rem;
     margin-bottom: 0;
 }
 
-#podnadpis-stranky {
+#main-header-news {
+    font-size: 3rem;
+    margin-bottom: 150px;
+}
+
+#main-subheader {
     font-size: 2rem;
 }
 
@@ -72,6 +77,33 @@ body {
     color:#7f7f7f
 }
 
+.blog-post {
+    border-left: solid 5px;
+    border-right: solid 5px;
+    font-size: 1.5rem;
+    padding-left: 10px;
+    padding-right: 8px;
+    width: 300px;
+}
+
+.post-header:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 15%;
+    text-underline-position: under;
+}
+
+.post-link {
+    text-decoration: none;
+    color: #ccc9c9;
+}
+
+.post-content {
+    font-size: 1.3rem;
+}
+
+.post-date {
+    font-size: 1rem;
+}
 
 p {
     font-size: 1.5rem;
